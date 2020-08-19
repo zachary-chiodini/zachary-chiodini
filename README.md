@@ -1,4 +1,7 @@
 ### Hi there 👋
+<p align="center">
+    <img src="content/neo.png">
+</p>
 
 <!--
 **zachary-chiodini/zachary-chiodini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
