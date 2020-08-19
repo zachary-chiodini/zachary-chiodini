@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="content/neo.png">
-</p>
-
 ### Hi there 👋
 
 <!--
