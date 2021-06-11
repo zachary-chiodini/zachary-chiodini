@@ -1,5 +1,4 @@
 ### Hi there 👋
-Check out my [GitHub Pages Website](https://zachary-chiodini.github.io/).
 <!--
 **zachary-chiodini/zachary-chiodini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
